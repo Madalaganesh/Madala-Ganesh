@@ -1,16 +1,35 @@
 # Hi, I'm M. V. Ganesh 👋
 
-Aspiring Data Analyst | Python | SQL | Power BI | Excel
+<table>
+<tr>
+<td width="60%">
 
+### Aspiring Data Analyst
 
-📊 Skilled in Python, SQL, Excel, and Power BI
+📊 Skilled in Python, SQL, Excel, Power BI
 
 💡 Passionate about transforming data into actionable insights and building data-driven solutions.
 
 ## 🤝 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-madalagani%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madalagani@gmail.com)
+<p>
+  <a href="mailto:madalagani@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Madalaganesh">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+</td>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Madalaganesh-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Madalaganesh)
+<td width="40%">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VhMG9xYWFhNWxjN2JhNjl0bTRiYm9kNjQ0N3VhN3JvOW41bW1sYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
