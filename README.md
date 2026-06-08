@@ -39,7 +39,7 @@
 </p>
 
 <p>
-<img align="right" width="350" src="https://media.giphy.com/media/3o7TKsQ8UQH6XSSgWQ/giphy.gif" />
+  <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 </p>
 
 </td>
