@@ -38,9 +38,6 @@
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
-<p>
-  <img align="right" width="350" src="https://img.freepik.com/free-vector/infographic-pie-chart-template_23-2147504188.jpg" />
-</p>
 
 </td>
 </tr>
