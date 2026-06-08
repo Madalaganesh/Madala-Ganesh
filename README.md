@@ -39,3 +39,5 @@
 </td>
 </tr>
 </table>
+
+<img align="right" width="400" src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','SQL','Power BI','Excel'],datasets:[{data:[35,30,20,15]}]}}" />
