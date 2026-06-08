@@ -34,9 +34,9 @@
 
 <td width="40%">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VhMG9xYWFhNWxjN2JhNjl0bTRiYm9kNjQ0N3VhN3JvOW41bW1sYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
-
+<p>
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</p>
 
 </td>
 </tr>
