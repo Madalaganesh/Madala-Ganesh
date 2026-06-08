@@ -22,20 +22,13 @@
 - Analyzed customer purchasing behavior and sales performance.
 - Built Excel dashboards with Pivot Tables and Slicers.
   
-
 ## 🤝 Let's Connect
 
-<p>
-  <a href="mailto:madalagani@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Madalaganesh">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-madalagani%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madalagani@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Madalaganesh-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Madalaganesh)
 
 </td>
 
