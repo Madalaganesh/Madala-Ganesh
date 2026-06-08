@@ -10,6 +10,34 @@
 
 💡 Passionate about transforming data into actionable insights and building data-driven solutions.
 
+## 🚀 Projects
+
+### 📊 E-Commerce Order Analysis
+- Analyzed sales data using SQL and Power BI.
+- Identified top-selling products, repeat customers, and monthly sales trends.
+- Created interactive dashboards for business insights.
+
+### 👥 Customer Sales Analysis
+- Performed data cleaning and EDA using Python (Pandas, NumPy).
+- Analyzed customer purchasing behavior and sales performance.
+- Built Excel dashboards with Pivot Tables and Slicers.
+
+### 🎓 Academic Activity Analysis Dashboard
+- Developed Power BI dashboards to track student performance, attendance, faculty activities, and placements.
+- Designed KPI-driven reports for academic decision-making.
+
+### 🚢 Titanic Survival Analysis
+- Conducted exploratory data analysis using Python.
+- Visualized survival trends based on gender, age, and passenger class.
+- Created interactive charts and reports.
+
+### 🎬 Movie Industry Analysis
+- Analyzed a large movie dataset using Python, SQL, and Power BI.
+- Explored trends in revenue, ratings, genres, and release years.
+- Built visual dashboards for data storytelling.
+
+  
+
 ## 🤝 Let's Connect
 
 <p>
