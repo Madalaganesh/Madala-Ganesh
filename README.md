@@ -7,12 +7,14 @@ Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
 💡 Passionate about transforming data into actionable insights and building data-driven solutions.
 
-## 📫 Let's Connect
-
 ## 🤝 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-madalagani%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=red)](mailto:madalagani@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Madalaganesh-black?style=for-the-badge&logo=github&logoColor=balck)](https://github.com/Madalaganesh)
+<a href="mailto:madalagani@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Madalaganesh">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
+</a>
